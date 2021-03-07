@@ -1,1 +1,1 @@
-# kubectl-client-certificate-update
+# kubectl-client-certificate
